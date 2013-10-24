@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/OGCMetOceanDWG/wmo-ra.png?branch=master)](https://travis-ci.org/OGCMetOceanDWG/wmo-ra)
+
 WMO Regional Associations
 =========================
 
