@@ -1,6 +1,6 @@
 
-0.1
----
+0.1 (2013-10-24)
+----------------
 
 - Original Shapefile set from Steve Foreman (24 October 2013)
 - Added roman_num column (Tom Kralidis)
