@@ -2,7 +2,7 @@ language: bash
 
 install:
   - sudo apt-get update
-  - sudo apt-get gdal-bin
+  - sudo apt-get install gdal-bin
 
 script:
   - ogrinfo wmo-ra.geojson
