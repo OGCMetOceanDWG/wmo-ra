@@ -14,7 +14,7 @@ IMPORTANT NOTICE & DISCLAIMER
 LINKS TO OTHER WEB SITES
 ------------------------
 
-This is the cartographic web site of the World Meteorological  Organization (WMO). Links to other sites are provided for information only. The inclusion of these links and their content does not imply official endorsement or approval whatsoever by the WMO. 
+This is a cartographic web site of some World Meteorological Organization (WMO) data. Links to other sites are provided for information only. The inclusion of these links and their content does not imply official endorsement or approval whatsoever by the WMO. 
 
 DESIGNATIONS USED
 -----------------
