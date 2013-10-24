@@ -1,0 +1,7 @@
+
+0.1
+---
+
+- Original Shapefile set from Steve Foreman (24 October 2013)
+- Added roman_num column (Tom Kralidis)
+- converted to GeoJSON and published
