@@ -10,6 +10,8 @@ Overview
 
 Six Regional Associations of WMO are responsible for the coordination of meteorological, hydrological and related activities within their respective Regions: Region I (Africa), Regional II (Asia), Region III (South America), Region IV (North America, Central America and the Caribbean), Region V (South-West Pacific) and Region VI (Europe). They meet formally in their respective Regions once every four years, when they elect a President and a Vice-President, appoint various working groups and expert teams and establish the work activities for the next four years. 
 
+Antarctica is outside of all the regions. Activities there are in the scope of specific international treaties.
+
 IMPORTANT NOTICE & DISCLAIMER
 =============================
 
