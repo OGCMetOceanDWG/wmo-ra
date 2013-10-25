@@ -9,5 +9,6 @@ install:
   - pip install GDAL
 
 script:
+  - ogrinfo --version
   - ogrinfo wmo-ra.geojson
   - python validate.py wmo-ra.geojson
