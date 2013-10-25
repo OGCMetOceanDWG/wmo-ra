@@ -6,9 +6,9 @@ python:
 install:
   - sudo apt-get update
   - sudo apt-get install -y gdal-bin python-gdal
-  - pip install GDAL
+#  - pip install GDAL
 
 script:
   - ogrinfo --version
   - ogrinfo wmo-ra.geojson
-  - python validate.py wmo-ra.geojson
+#  - python validate.py wmo-ra.geojson
