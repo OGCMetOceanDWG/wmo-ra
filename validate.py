@@ -17,7 +17,7 @@ def is_valid(data):
     dataset = ogr.Open(data)
     layer = dataset.GetLayer(0)
     geomtype = layer.GetGeomType()
-    if geomtype != 6:
+    if geomtype != ogr.wkbMultiPolygon:
         print 'ERROR: Invalid Layer Geometry type: %d' % geomtype
         return False
     feature_count = layer.GetFeatureCount()
