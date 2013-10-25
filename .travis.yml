@@ -6,6 +6,7 @@ python:
 install:
   - sudo apt-get update
   - sudo apt-get install -y gdal-bin python-gdal
+  - pip install GDAL
 
 script:
   - ogrinfo wmo-ra.geojson
