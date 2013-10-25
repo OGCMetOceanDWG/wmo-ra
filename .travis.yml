@@ -13,4 +13,4 @@ install:
 script:
   - ogrinfo --version
   - ogrinfo wmo-ra.geojson
-#  - python validate.py wmo-ra.geojson
+  - python validate.py wmo-ra.geojson
