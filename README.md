@@ -3,7 +3,7 @@
 WMO Regional Associations
 =========================
 
-GeoJSON representation of WMO Regional Assocations.
+GeoJSON representation of WMO Regional Associations.
 
 Overview
 ---------
