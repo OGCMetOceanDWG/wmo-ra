@@ -39,7 +39,7 @@ def is_valid(data):
                 (REGION_IDS[wmo_ra][0], roman_num)
             return False
         if REGION_IDS[wmo_ra][1] != region:
-            print 'Invalid reigon: %s' % region
+            print 'Invalid region: %s' % region
             return False
     return True
 
